@@ -1,127 +1,168 @@
+<h1 align="center">Python - Data Analysis</h1>
 
-# Python - Data Analysis
+This GitHub repository serves as a practical guide to Python data analysis, encompassing crucial topics like Series, DataFrames, string manipulation, dataset reshaping, data combination, time series analysis, Matplotlib visualizations, bar chart races, and Numpy numerical computing. While the main source of this repository and tutorial documents is [this link](https://www.udemy.com/course/learn-da/), it's supplemented with my personal solutions and notes regarding the structure of the source material.
 
-## Series
+---
 
-- Introduction 📊
-- Attributes 📈
-- Methods 📉
-- Handling CSV files 📁
-- head() & tail() 🐍
-- Sorting values in a Series 🔍
-- Counting values in a Series 🔢
-- Accessing elements via position 🔍
-- Accessing elements via index 🔖
+<h1 align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif" alt="Python - Data Analysis" style="width:50%">
+</h1>
 
-## Data Frames
+---
+<details>
+<summary>1. Series</summary>
 
-- Introduction 📊
-- Handling excel files 📑
-- Methods 📊
-- describe() & info() ℹ️
-- nlargest() & nsmallest() 📊
-- set_index() & reset_index() 🔑
-- Removing columns/rows in a DataFrame with drop() 🗑️
-- Adding columns to a DataFrame ➕
-- dropna() 🚫
-- fillna() ✏️
-- .loc[] 🔍
-- .iloc[] 🔍
-- Broadcasting 📡
-- Conditions ❓
-- Multiple conditions ❓
-- between() 📏
-- isin(), isnull(), & notnull() ✔️❌
-- Renaming ♻️
-- apply() 🔄
-- map() & applymap() 🗺️
-- astype() 📝
-- replace() 🔄
-- where() 🌍
-- agg() 📊
-- copy() 📄
-- Multi-indexing 🔑🔑
+- [ ] [Introduction 📊](./01_Series/01_intro/README.md)
+- [ ] Attributes 📈
+- [ ] Methods 📉
+- [ ] Handling CSV files 📁
+- [ ] head() & tail() 🐍
+- [ ] Sorting values in a Series 🔍
+- [ ] Counting values in a Series 🔢
+- [ ] Accessing elements via position 🔍
+- [ ] Accessing elements via index 🔖
 
-## String Operations
+</details>
 
-- .str 🔡
-- startswith() & endswith() 🚩
-- Index & columns 🔢🔠
+---
 
-## Reshaping Datasets
+<details>
+<summary>2. Data Frames</summary>
 
-- Introduction 🔄
-- transpose() 🔀
-- stack() & unstack() 📚
-- melt() 🔥
-- pivot() 🔄
-- pivot_table() 📊
-- groupby() 🔍
+- [ ] Introduction 📊
+- [ ] Handling excel files 📑
+- [ ] Methods 📊
+- [ ] describe() & info() ℹ️
+- [ ] nlargest() & nsmallest() 📊
+- [ ] set_index() & reset_index() 🔑
+- [ ] Removing columns/rows in a DataFrame with drop() 🗑️
+- [ ] Adding columns to a DataFrame ➕
+- [ ] dropna() 🚫
+- [ ] fillna() ✏️
+- [ ] .loc[] 🔍
+- [ ] .iloc[] 🔍
+- [ ] Broadcasting 📡
+- [ ] Conditions ❓
+- [ ] Multiple conditions ❓
+- [ ] between() 📏
+- [ ] isin(), isnull(), & notnull() ✔️❌
+- [ ] Renaming ♻️
+- [ ] apply() 🔄
+- [ ] map() & applymap() 🗺️
+- [ ] astype() 📝
+- [ ] replace() 🔄
+- [ ] where() 🌍
+- [ ] agg() 📊
+- [ ] copy() 📄
+- [ ] Multi-indexing 🔑🔑
 
-## Combining Datasets
+</details>
 
-- Introduction 🔄
-- concat() 🔄
-- merge() 🔄
-- Outer join 🔗
-- Inner join 🔗
-- Left & right join 🔗
-- Left & right (Minus) 🔗
-- Outer join (Minus) 🔗
-- Merging with different column names 🔗
+---
 
-## Time Series
+<details>
+<summary>3. String Operations</summary>
 
-- Introduction ⏰
-- Timestamp & DatetimeIndex ⏳
-- date_range() 📅
-- Period & PeriodIndex 📆
-- Timedelta & TimedeltaIndex ⏳
-- Accessing time attributes through .dt ⏳
-- Timestamp methods & attributes ⏳
-- Time Series in files 📁
-- loc[] & iloc[] with DatetimeIndex 🔍
-- reindex() 🔄
-- resample() 🔄
+- [ ] .str 🔡
+- [ ] startswith() & endswith() 🚩
+- [ ] Index & columns 🔢🔠
 
-## Matplotlib
+</details>
 
-- Introduction 📊
-- Line plots 📈
-- Bar plots 📊
-- Histograms 📊
-- Pie charts 🥧
-- Styles 🎨
-- Interactive plots 📱
-- Scatter 🌟
-- Candlestick charts 📊
-- Color by value 🌈
+---
 
-## Bar Chart Race
+<details>
+<summary>4. Reshaping Datasets</summary>
 
-- Preview 📊
-- Installation 💻
-- Implementation 💼
+- [ ] Introduction 🔄
+- [ ] transpose() 🔀
+- [ ] stack() & unstack() 📚
+- [ ] melt() 🔥
+- [ ] pivot() 🔄
+- [ ] pivot_table() 📊
+- [ ] groupby() 🔍
 
-## Numpy
+</details>
 
-- Introduction 🧮
-- Lists vs. NumPy arrays 🔄
-- What are arrays? 🤔
-- More information ℹ️
-- Array basics 🧮
-- Sorting and concatenating arrays 🔀
-- Getting the shape and size of an array 📏
-- Reshaping an array 🔄
-- Adding a new axis to an array 🔄
-- Indexing and slicing 🔍
-- Creating arrays from existing data 🧮
-- Basic operations ➕➖✖️➗
-- Broadcasting 📡
-- Matrices 🧮
-- Generating random numbers 🎲
-- Finding unique elements 🔍
-- Transposing and reshaping arrays 🔄
-- Reversing arrays 🔃
-- Reshaping & flattening multidimensional arrays 🔄
-- Saving & loading arrays 💾
+---
+
+<details>
+<summary>5. Combining Datasets</summary>
+
+- [ ] Introduction 🔄
+- [ ] concat() 🔄
+- [ ] merge() 🔄
+- [ ] Outer join 🔗
+- [ ] Inner join 🔗
+- [ ] Left & right join 🔗
+- [ ] Left & right (Minus) 🔗
+- [ ] Outer join (Minus) 🔗
+- [ ] Merging with different column names 🔗
+
+</details>
+
+---
+
+<details>
+<summary>6. Time Series</summary>
+
+- [ ] Introduction ⏰
+- [ ] Timestamp & DatetimeIndex ⏳
+- [ ] date_range() 📅
+- [ ] Period & PeriodIndex 📆
+- [ ] Timedelta & TimedeltaIndex ⏳
+- [ ] Accessing time attributes through .dt ⏳
+- [ ] Timestamp methods & attributes ⏳
+- [ ] Time Series in files 📁
+- [ ] loc[] & iloc[] with DatetimeIndex 🔍
+- [ ] reindex() 🔄
+- [ ] resample() 🔄
+
+</details>
+
+---
+
+<details>
+<summary>7. Data Visualization </summary>
+
+- [ ] Introduction 📊
+- [ ] Line plots 📈
+- [ ] Bar plots 📊
+- [ ] Histograms 📊
+- [ ] Pie charts 🥧
+- [ ] Styles 🎨
+- [ ] Interactive plots 📱
+- [ ] Scatter 🌟
+- [ ] Candlestick charts 📊
+- [ ] Color by value 🌈
+- [ ] Bar Chart Race
+
+</details>
+
+---
+
+<details>
+<summary>8. Numpy</summary>
+
+- [ ] Introduction 🧮
+- [ ] Lists vs. NumPy arrays 🔄
+- [ ] What are arrays? 🤔
+- [ ] More information ℹ️
+- [ ] Array basics 🧮
+- [ ] Sorting and concatenating arrays 🔀
+- [ ] Getting the shape and size of an array 📏
+- [ ] Reshaping an array 🔄
+- [ ] Adding a new axis to an array 🔄
+- [ ] Indexing and slicing 🔍
+- [ ] Creating arrays from existing data 🧮
+- [ ] Basic operations ➕➖✖️➗
+- [ ] Broadcasting 📡
+- [ ] Matrices 🧮
+- [ ] Generating random numbers 🎲
+- [ ] Finding unique elements 🔍
+- [ ] Transposing and reshaping arrays 🔄
+- [ ] Reversing arrays 🔃
+- [ ] Reshaping & flattening multidimensional arrays 🔄
+- [ ] Saving & loading arrays 💾
+
+</details>
