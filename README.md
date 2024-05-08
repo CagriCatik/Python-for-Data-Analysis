@@ -13,14 +13,14 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <summary>1. Series</summary>
 
 - [ ] [Introduction 📊](./01_Series/01_intro/README.md)
-- [ ] Attributes 📈
-- [ ] Methods 📉
-- [ ] Handling CSV files 📁
-- [ ] head() & tail() 🐍
-- [ ] Sorting values in a Series 🔍
-- [ ] Counting values in a Series 🔢
-- [ ] Accessing elements via position 🔍
-- [ ] Accessing elements via index 🔖
+- [ ] [Attributes 📈](./01_Series/02_attributes/README.md)
+- [ ] [Methods 📉](./01_Series/02_attributes/README.md)
+- [ ] [Handling CSV files 📁](./01_Series/04_handling_csv_files/README.md)
+- [ ] [head() & tail() 🐍](./01_Series/05_head-and-tail/README.md)
+- [ ] [Sorting values in a Series 🔍](./01_Series/06_sorting_values/README.md)
+- [ ] [Counting values in a Series 🔢](./01_Series/07_counting_values/README.md)
+- [ ] [Accessing elements via position 🔍](./01_Series/08_accessing_elements_position/README.md)
+- [ ] [Accessing elements via index 🔖](./01_Series/09_accessing_elements_index/README.md)
 
 </details>
 
