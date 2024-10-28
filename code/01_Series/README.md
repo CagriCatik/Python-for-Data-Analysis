@@ -1,12 +1,11 @@
 # Series
 
-1. Introduction
-2. Attributes
-3. Methods
-4. Handling CSV files
-5. head() & tail()
-6. Sorting values in a Series
-7. Counting values in a Series
-8. Accessing elements via Position
-9. Accessing elements via index
-10. Assignment
+1. Attributes
+2. Methods
+3. Handling CSV files
+4. head() & tail()
+5. Sorting values in a Series
+6. Counting values in a Series
+7. Accessing elements via Position
+8. Accessing elements via index
+9. Assignment

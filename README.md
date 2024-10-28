@@ -1,6 +1,6 @@
 <h1 align="center">Python - Data Analysis</h1>
 
-This GitHub repository serves as a practical guide to Python data analysis, encompassing crucial topics like Series, DataFrames, string manipulation, dataset reshaping, data combination, time series analysis, Matplotlib visualizations, bar chart races, and Numpy numerical computing. While the main source of this repository and tutorial documents is [this link](https://www.udemy.com/course/learn-da/), it's supplemented with my personal solutions and notes regarding the structure of the source material.
+This GitHub repository serves as a practical guide to Python data analysis, encompassing crucial topics like Series, DataFrames, string manipulation, dataset reshaping, data combination, time series analysis, Matplotlib visualizations, bar chart races, and Numpy numerical computing. While the main source of this repository and tutorial documents is [this link](https://www.udemy.com/course/learn-da/), it's supplemented with my personal solutions and notes regarding the structure of the source material. [Datasets](https://github.com/selva86/datasets/tree/master)
 
 ---
 
@@ -12,7 +12,6 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <details>
 <summary>1. Series</summary>
 
-- [ ] [Introduction 📊](./01_Series/01_intro/README.md)
 - [ ] [Attributes 📈](./01_Series/02_attributes/README.md)
 - [ ] [Methods 📉](./01_Series/02_attributes/README.md)
 - [ ] [Handling CSV files 📁](./01_Series/04_handling_csv_files/README.md)
@@ -29,7 +28,6 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <details>
 <summary>2. Data Frames</summary>
 
-- [ ] Introduction 📊
 - [ ] Handling excel files 📑
 - [ ] Methods 📊
 - [ ] describe() & info() ℹ️
@@ -74,7 +72,6 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <details>
 <summary>4. Reshaping Datasets</summary>
 
-- [ ] Introduction 🔄
 - [ ] transpose() 🔀
 - [ ] stack() & unstack() 📚
 - [ ] melt() 🔥
@@ -89,7 +86,6 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <details>
 <summary>5. Combining Datasets</summary>
 
-- [ ] Introduction 🔄
 - [ ] concat() 🔄
 - [ ] merge() 🔄
 - [ ] Outer join 🔗
@@ -106,7 +102,6 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <details>
 <summary>6. Time Series</summary>
 
-- [ ] Introduction ⏰
 - [ ] Timestamp & DatetimeIndex ⏳
 - [ ] date_range() 📅
 - [ ] Period & PeriodIndex 📆
@@ -125,7 +120,6 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <details>
 <summary>7. Data Visualization </summary>
 
-- [ ] Introduction 📊
 - [ ] Line plots 📈
 - [ ] Bar plots 📊
 - [ ] Histograms 📊
@@ -144,7 +138,6 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <details>
 <summary>8. Numpy</summary>
 
-- [ ] Introduction 🧮
 - [ ] Lists vs. NumPy arrays 🔄
 - [ ] What are arrays? 🤔
 - [ ] More information ℹ️
@@ -166,3 +159,15 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 - [ ] Saving & loading arrays 💾
 
 </details>
+
+---
+
+<details>
+<summary>9. Projects</summary>
+
+- [ ] House Price Prediction 🧮
+
+</details>
+
+---
+
