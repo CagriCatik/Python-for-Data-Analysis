@@ -61,8 +61,8 @@ Released_Year
 1942    8.233333
           ...   
 1956    7.820000
-1943    7.800000
 1933    7.800000
+1943    7.800000
 1935    7.766667
 PG      7.600000
 Name: IMDB_Rating, Length: 100, dtype: float64
@@ -70,16 +70,16 @@ Name: IMDB_Rating, Length: 100, dtype: float64
 Average Rating per Genre:
 Genre
 Animation, Drama, War         8.50
-Drama, Musical                8.40
 Action, Sci-Fi                8.40
+Drama, Musical                8.40
 Drama, Mystery, War           8.35
 Western                       8.35
                               ... 
-Adventure, Comedy, War        7.60
-Animation, Comedy, Crime      7.60
-Action, Adventure, Family     7.60
-Animation, Drama, Romance     7.60
 Action, Adventure, Mystery    7.60
+Action, Adventure, Family     7.60
+Action, Adventure, Crime      7.60
+Animation, Drama, Romance     7.60
+Drama, War, Western           7.60
 Name: IMDB_Rating, Length: 202, dtype: float64
 
 Number of Movies per Genre:
@@ -90,10 +90,10 @@ Comedy, Drama                35
 Comedy, Drama, Romance       31
 Action, Crime, Drama         30
                              ..
-Adventure, Thriller           1
-Animation, Action, Sci-Fi     1
-Action, Crime, Comedy         1
-Animation, Crime, Mystery     1
+Action, Adventure, Family     1
+Action, Crime, Mystery        1
+Animation, Drama, Romance     1
+Drama, War, Western           1
 Adventure, Comedy, War        1
 Name: count, Length: 202, dtype: int64
 
