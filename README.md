@@ -1,6 +1,6 @@
 <h1 align="center">Python - Data Analysis</h1>
 
-This GitHub repository serves as a practical guide to Python data analysis, encompassing crucial topics like Series, DataFrames, string manipulation, dataset reshaping, data combination, time series analysis, Matplotlib visualizations, bar chart races, and Numpy numerical computing. While the main source of this repository and tutorial documents is [this link](https://www.udemy.com/course/learn-da/), it's supplemented with my personal solutions and notes regarding the structure of the source material. [Datasets](https://github.com/selva86/datasets/tree/master)
+This GitHub repository is a hands-on guide to Python data analysis, covering essential topics such as Series, DataFrames, string manipulation, reshaping datasets, combining data, time series analysis, visualizations with Matplotlib, bar chart races, and numerical computing with Numpy. The primary source for this repository and accompanying tutorial materials can be found [here](https://www.udemy.com/course/learn-da/). Additionally, it includes my own solutions and notes on the source structure. Access the relevant [datasets here](https://github.com/selva86/datasets/tree/master).
 
 ---
 
@@ -12,14 +12,14 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <details>
 <summary>1. Series</summary>
 
-- [ ] [Attributes 📈](./01_Series/02_attributes/README.md)
-- [ ] [Methods 📉](./01_Series/02_attributes/README.md)
-- [ ] [Handling CSV files 📁](./01_Series/04_handling_csv_files/README.md)
-- [ ] [head() & tail() 🐍](./01_Series/05_head-and-tail/README.md)
-- [ ] [Sorting values in a Series 🔍](./01_Series/06_sorting_values/README.md)
-- [ ] [Counting values in a Series 🔢](./01_Series/07_counting_values/README.md)
-- [ ] [Accessing elements via position 🔍](./01_Series/08_accessing_elements_position/README.md)
-- [ ] [Accessing elements via index 🔖](./01_Series/09_accessing_elements_index/README.md)
+- [ ] Attributes 📈
+- [ ] Methods 📉
+- [ ] Handling CSV files 📁
+- [ ] head() & tail() 🐍
+- [ ] Sorting values in a Series 🔍
+- [ ] Counting values in a Series 🔢
+- [ ] Accessing elements via position 🔍
+- [ ] Accessing elements via index 🔖
 
 </details>
 
@@ -166,6 +166,8 @@ This GitHub repository serves as a practical guide to Python data analysis, enco
 <summary>9. Projects</summary>
 
 - [ ] House Price Prediction 🧮
+- [ ] Classifiying Silhouettes of Vehicles 🧮
+- [ ] Vehicle Price Prediction 🧮
 
 </details>
 
